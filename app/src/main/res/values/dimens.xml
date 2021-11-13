@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_sm">8dp</dimen>
+    <dimen name="padding_md">14dp</dimen>
+    <dimen name="padding_lg">18dp</dimen>
+
+    <dimen name="margin_sm">8dp</dimen>
+    <dimen name="margin_md">12dp</dimen>
+    <dimen name="margin_lg">18dp</dimen>
+
+    <dimen name="text_sm">12dp</dimen>
+    <dimen name="text_md">16dp</dimen>
+    <dimen name="text_lg">21dp</dimen>
+    <dimen name="text_xl">28dp</dimen>
+    
+    <dimen name="image_h">120dp</dimen>
+</resources>
